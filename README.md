@@ -1,4 +1,4 @@
-# [Aligator.ir](https://www.aligator.ir/)
+# [aliqanbari.ir](https://www.aliqanbari.ir/)
 
 ![Ali Ghanbari's github stats](https://github-readme-stats.vercel.app/api?username=ali2236&show_icons=true)
 
